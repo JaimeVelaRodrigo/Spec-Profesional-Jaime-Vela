@@ -1,115 +1,96 @@
-## Spec Profesional – Jaime Vela Rodrigo
+#  Spec Professional – Jaime Vela Rodrigo
 
-Una arquitectura profesional al servicio para crear valor con impacto ético, estético y sistémico.
+**A living architecture of strategic impact, aesthetic resonance, and institutional regeneration**
 
-⸻
+---
 
-## I. 🧠 Autoconocimiento Profesional
+## I. Professional Self-Knowledge
 
-### 1.1 ¿Quién Soy?
+### 1.1 Who I Am
 
-Soy orquestador y creador de valor sistémico. Visualizo, estructuro y traduzco propósitos en realidades concretas, especialmente en sectores como infraestructura, energía, sostenibilidad con pensamiento estratégico. Mi mirada se expresa en ver patrones, articular visiones, y conectar partes dispersas en relatos claros, bellos y movilizadores. Mi sensibilidad humanista me impulsa a desarrollar soluciones donde el valor no se construye a costa de otros, sino con ellos.
+I am a system orchestrator and creator of systemic value.  
+I envision, structure, and translate purpose into tangible realities—particularly in sectors like infrastructure, energy, and sustainability—through strategic thinking.  
+My lens interprets patterns, frames narratives, and connects fragmented parts into coherent, beautiful, and mobilizing stories.  
+My humanist sensibility drives me to craft solutions where value is co-created, never extracted.
 
-#### Competencias Blandas
+#### Soft Competencies
+- Strategic listening
+- Systemic and analogical thinking
+- Ethical discernment
+- Capacity to build deep trust and read the unspoken
+- Aesthetic, sensitive communication
+- Profound emotional adaptability
 
-- Escucha estratégica
-- Pensamiento sistémico y analógico
-- Discernimiento ético
-- Capacidad de generar confianza y leer entre líneas
-- Comunicación estética y sensible
-- Adaptación emocional profunda
+#### Technical Competencies
+- Design of business structures and alliance frameworks
+- Integrated territorial and energy vision
+- Socio-environmental risk and impact analysis
+- Integration of economic, social, and political analysis
+- Governance and strategic planning
+- Experience in M&A processes, project finance, and performance control
 
-#### Competencias Técnicas
+### 1.2 Public and Private Brand
 
-- Diseño de estructuras de negocio y alianzas
-- Visión territorial y energética integral
-- Comprensión de riesgos e impactos socioambientales
-- Integración de análisis económico, social y político
-- Gobernanza y planificación estratégica
-- Experiencia en procesos de M&A, control de gestión y project finance
+- **Private Brand**: Subtle, empathetic, reflective; gifted in perceiving the unseen.
+- **Public Brand**: Creative, inquisitive, narrative architect; trusted for deep listening, commitment, and meaningful articulation.
 
-### 1.2 Marca Pública y Privada
+---
 
-- **Marca Privada:** Sutil y empático, reflexivo, sensibilidad estética y capacidad de ver lo no evidente.
-- **Marca Pública:** Creativo, indagador y articulador de alianzas y narrativas estratégicas con sentido, confiable en la escucha, compromiso y profundidad.
+## II. Professional Strategy
 
-### 1.3 FODA Profesional
+### Main Objective
 
-#### Fortalezas
-- Visión integral, ética y sistémica de empresas, organizaciones y proyectos complejos
-- Estética y orden en la comunicación de ideas
-- Capacidad de integrar sensibilidades diversas
-- Experiencia transversal: energía, educación, estrategia
-- Coherencia entre valores personales y profesionales
+To re-engage with the professional world from my center and vital offering.  
+To actively design structural solutions for a society in transition—whether through thought, action, or resource articulation—integrating ethics, technology, energy, and beauty.
 
-#### Debilidades
-- Dificultad para operar desde lógicas utilitarias o de corto plazo
-- Aversión a ambientes altamente jerárquicos o dogmáticos
-- Baja familiaridad con la cultura de “venta agresiva” o networking instrumental
-- Poco apego a tecnicismos financieros tradicionales (sin dejar de comprenderlos)
-- Generalista y no especialista en temas técnicos
+### Value Proposition
 
-#### Oportunidades
-- Emerger como voz articuladora-coordinadora de impacto sustentable desde una visión ética y estética
-- Integrarse a espacios de reflexión sobre el rol del poder, la tecnología y el futuro
-- Alinear inversiones con propósito transformador
-- Aportar en el diseño ético de la infraestructura para la era AGI
+I align transformative impact with systemic value.  
+I envision the convergence of infrastructure, aspiration, resources, and ethics to materialize projects that uplift the dignity of territories, people, and organizations.  
+My approach harmonizes strategic thinking, aesthetic sensibility, deep listening, and crystalline structuring.
 
-#### Amenazas
-- Incomprensión de su enfoque por parte de estructuras tradicionales
-- Cultura empresarial que prioriza el “group thinking”
-- Falta de títulos “PhD” o roles institucionales actuales visibles
-- Riesgo de invisibilización por operar desde un plano más integrador que técnico
+### Differentiation Analysis – “Competitors”
 
-⸻
+- I bring aesthetics into project design and narrative.
+- Form matters as much as impact.
+- My ethical stance does not impose—but it demands truth.
+- I compete with depth, trust, vision, and purpose—not titles.
 
-## II. 🧭 Estrategia Profesional
+---
 
-### 🎯 Objetivo Principal
+## III. Service Models
 
-Reconectarme con el mundo profesional desde mi centro y aporte vital. Ser parte activa del diseño de soluciones estructurales para una sociedad en evolución —ya sea desde el pensamiento, la acción o la articulación de recursos—, integrando ética, tecnología, energía y belleza.
+I can contribute in various formats:
 
-### 🧩 Propuesta de Valor
+- Strategic consultant for ethical and regenerative infrastructure projects  
+- Narrative designer for funds, companies, or transformative initiatives  
+- Purpose-driven alliance builder  
+- Governance advisor in purpose structuring  
+- Integrative researcher for foundations or think tanks  
+- Curator of meaning in AGI, energy, and sustainability contexts
 
-**Articular impacto transformador con valor sistémico.** Visualizo cómo se alinean la infraestructura, el deseo, los recursos y la ética para materializar proyectos que eleven la dignidad de los territorios, las personas y las empresas. Mi propuesta se diferencia por integrar pensamiento estratégico, sensibilidad estética, escucha profunda y capacidad de estructurar con claridad.
+---
 
-### 🔍 Análisis Diferenciador de “Competidores”
+## IV. Desired Fields of Action
 
-- Integro la estética en el diseño de proyectos y narrativas.
-- Me importa tanto el impacto como la forma en que se genera.
-- Tengo una mirada ética que no se impone, pero sí exige verdad.
-- No compito por títulos, compito por profundidad, confianza, visión y propósito.
+- Energy and infrastructure with territorial insight and market intelligence  
+- Strategic thought on ethics, AGI, and human development  
+- Public reflection spaces: think tanks, universities  
+- Impact investment and sovereign funds with systemic vision  
+- Art as a tool for collective re-signification
 
-⸻
+---
 
-## III. 🔗 Modelos de Servicio
+## V. Style of Impact
 
-**Mi contribución puede adoptar distintos formatos:**
-- Consultor estratégico en proyectos de infraestructura ética y regenerativa
-- Diseñador de narrativas para fondos, empresas o proyectos de transformación
-- Articulador de alianzas con propósito y sentido
-- Asesor de gobernanza en la estruturación de propósitos
-- Investigador integrador en fundaciones o think tanks
-- Curador de sentido en contextos de AGI, energía y sustentabilidad
+**360° Impact**—my decisions must uplift individuals, territories, systems, companies, and investors alike.  
+I prefer influencing through strategic and structural choices rather than tactical execution.  
+I do not compete on speed—I compete on depth.
 
-⸻
+---
 
-## IV. 🔮 Ámbitos Deseados de Acción
+## VI. Closing Statement
 
-- Energía e infraestructura con conciencia territorial y de mercado
-- Pensamiento estratégico sobre ética, AGI y desarrollo humano
-- Espacios de reflexión pública, think tanks, universidades
-- Fondos de inversión de impacto y soberanos con visión sistémica
-- Arte como herramienta de resignificación colectiva
-
-⸻
-
-## V. 💡 Estilo de Impacto
-
-Impacto 360°: lo que hago debe elevar simultáneamente al individuo, al territorio y al sistema; la empresa y al inversionista. Prefiero influir en decisiones estratégicas y estructurales más que operar desde lo técnico. No compito en velocidad, compito en profundidad.
-
-⸻
-
-## VI. 💬 Cierre
-
-Hoy no busco validación, busco resonancia. Este Spec Profesional no es un CV, es una arquitectura viva. Está en movimiento, como yo. Si alguna parte de ti, lector o lectora, se activó con estas líneas, entonces quizás ya estamos colaborando.
+Today, I do not seek validation—I seek resonance.  
+This Spec Professional is not a CV—it’s a living architecture. It moves, just as I do.  
+If something in these lines has stirred you, reader, perhaps we are already in collaboration.
