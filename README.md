@@ -94,3 +94,7 @@ I do not compete on speed—I compete on depth.
 Today, I do not seek validation—I seek resonance.  
 This Spec Professional is not a CV—it’s a living architecture. It moves, just as I do.  
 If something in these lines has stirred you, reader, perhaps we are already in collaboration.
+
+## Core references
+- Core YAML: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.yaml
+- Core JSON: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.json
