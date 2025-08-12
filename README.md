@@ -1,6 +1,13 @@
-#  Spec Professional – Jaime Vela Rodrigo
+# Spec-Professional – Jaime Vela Rodrigo
 
 **A living architecture of strategic impact, aesthetic resonance, and institutional regeneration**
+
+Professional/Business spec aligning presence, stewardship of nostalgia, and service models.
+
+- See `spec.yaml` / `spec.json` for machine-readable spec
+- Core references:
+  - YAML: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.yaml
+  - JSON: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.json
 
 ---
 
