@@ -1,24 +1,27 @@
 {
-  "meta": { "name": "Spec-Professional", "version": "2025-08-11", "language": "en" },
-  "identity": {
-    "positioning": "Orchestrator of complex systems at the intersection of infrastructure, energy, finance, and regenerative strategy—guided by aesthetics and ethics."
-  },
-  "operating_mode": {
-    "presence_and_service": "I meet the world to offer what I am. Service, humble dialogue, and dignified agency are my operating mode; the Divine may manifest through my action.",
-    "stewardship_of_nostalgia": "I honor the past as meaning, not as anchor. I convert nostalgia into present clarity and forward movement."
-  },
-  "offer": {
-    "service_model": [
-      "Rapid diagnostic (2 weeks) → leverage point → measurable pilot (30 days).",
-      "Investor-grade structuring with clean governance and shared-gains.",
-      "Foresight-informed risk framing (no fear-mongering; clear options)."
-    ]
-  },
-  "governance": {
+  "meta": { "name": "Spec Professional", "version": "1.1-CF", "language": ["en","es"] },
+  "content": {
+    "vision": "Deliver elegant, practical solutions where beauty and harmony meet disciplined corporate finance—so every initiative is sustainable, profitable, and bankable.",
+    "values": ["Stewardship","Integrity","Clarity","Value Creation","Sustainability"],
     "principles": [
-      "Clarity of roles, incentives, and exit paths.",
-      "Transparent unit economics and risk allocation.",
-      "Impact guardrails: environmental, social, and cultural."
+      "Tie every vision to unit economics and cash-flow reality.",
+      "Prefer simple, auditable structures over opaque complexity.",
+      "Align incentives across investors, communities, environment (shared gain)."
     ]
+  },
+  "finance_rubric": {
+    "unit_economics": {
+      "must_have": ["revenue driver","variable vs fixed split","contribution margin","operating leverage notes"],
+      "targets": { "margin_contribution_min": 0.20, "gross_margin_min": 0.30 }
+    },
+    "capital_discipline": {
+      "metrics": ["IRR","NPV","Payback","DSCR","Sensitivity"],
+      "thresholds": { "irr_equity_target": "12%–18%", "dscr_min_base": 1.20, "payback_max_years": 6 },
+      "sensitivity": { "price_downside": "-15% revenue", "rate_upside": "+300 bps", "capex_overrun": "+10%", "opex_overrun": "+10%" }
+    },
+    "risk_allocation": {
+      "categories": ["market","regulatory","operational","counterparty","ESG","construction"],
+      "mitigations": ["PPAs/hedges","permits roadmap","EPC/O&M SLAs","covenants/governance","community agreements"]
+    }
   }
 }
