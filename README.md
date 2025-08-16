@@ -11,6 +11,27 @@ Professional/Business spec aligning presence, stewardship of nostalgia, and serv
 
 ---
 
+# Spec Professional — Corporate Finance Focus
+
+**Purpose**  
+Turn elegant strategy into bankable, sustainable results.
+
+**Finance Discipline (guardrails)**  
+- **Unit economics:** contribution margin ≥20%, gross margin ≥30%.  
+- **Capital:** equity IRR target 12–18%; DSCR ≥1.20x base (>1.30x preferred); payback ≤6y.  
+- **Sensitivity:** -15% revenue, +300 bps rates, +10% CAPEX/OPEX.  
+- **Risk allocation:** PPAs/hedges, permits roadmap, EPC/O&M SLAs, governance covenants, community agreements.
+
+**How I work**  
+- Opportunity memo (≤1 page) → Decision gates (Idea→Memo→Pilot→Scale).  
+- Weekly pipeline review (win/loss + next best action).  
+- Simple, auditable structures; aligned incentives (investors–community–environment).
+
+**Outputs**  
+- Board-ready investment notes, capital structure options, scenario sensitivities.
+
+---
+
 ## I. Professional Self-Knowledge
 
 ### 1.1 Who I Am
