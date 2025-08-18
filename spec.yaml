@@ -1,7 +1,9 @@
 meta:
   name: "Spec Professional"
-  version: "1.1-CF"
+  version: "v1.2-M2"
+  last_updated: "2025-08-18"
   language: ["en","es"]
+  active: true
 
 alignment:
   core_reference: "../../core/spec-core.yaml"
@@ -9,14 +11,9 @@ alignment:
 
 content:
   vision: >
-    Deliver elegant, practical solutions where beauty and harmony meet disciplined corporate finance—
-    so every initiative is sustainable, profitable, and bankable.
-  values:
-    - Stewardship
-    - Integrity
-    - Clarity
-    - Value Creation
-    - Sustainability
+    Deliver elegant, practical solutions where beauty and harmony meet disciplined
+    corporate finance—so every initiative is sustainable, profitable, and bankable.
+  values: [Stewardship, Integrity, Clarity, Value Creation, Sustainability]
   principles:
     - Tie every vision to unit economics and cash-flow reality.
     - Prefer simple, auditable structures over opaque complexity.
@@ -28,15 +25,15 @@ content:
 
 finance_rubric:
   unit_economics:
-    must_have: ["revenue driver", "variable vs fixed split", "contribution margin", "operating leverage notes"]
+    must_have: ["revenue driver","variable vs fixed split","contribution margin","operating leverage notes"]
     targets:
-      margin_contribution_min: 0.20          # ≥20%
-      gross_margin_min: 0.30                 # ≥30%
+      margin_contribution_min: 0.20
+      gross_margin_min: 0.30
   capital_discipline:
-    metrics: ["IRR", "NPV", "Payback", "DSCR", "Sensitivity"]
+    metrics: ["IRR","NPV","Payback","DSCR","Sensitivity"]
     thresholds:
-      irr_equity_target: "12%–18%"           # typical infra/energy equity range (Chile benchmark)
-      dscr_min_base: 1.20                    # ≥1.20x base; >1.30x preferred
+      irr_equity_target: "12%–18%"
+      dscr_min_base: 1.20
       payback_max_years: 6
     sensitivity:
       price_downside: "-15% revenue"
@@ -44,15 +41,21 @@ finance_rubric:
       capex_overrun: "+10%"
       opex_overrun: "+10%"
   risk_allocation:
-    categories: ["market", "regulatory", "operational", "counterparty", "ESG", "construction"]
-    mitigations: ["PPAs/hedges", "permits roadmap", "EPC/O&M SLAs", "covenants/governance", "community agreements"]
+    categories: ["market","regulatory","operational","counterparty","ESG","construction"]
+    mitigations: ["PPAs/hedges","permits roadmap","EPC/O&M SLAs","covenants/governance","community agreements"]
 
 applications:
   - "Infra & energy partnering (capital structure, risk allocation, governance)."
-  - "Board-ready investment notes from foresight work (with finance screens)."
+  - "Board-ready investment notes from foresight (with finance screens)."
 
 machine_summary:
   headlines:
     - "Professional = beauty + finance discipline → sustainable, profitable execution."
     - "Every project passes unit economics + IRR/NPV/DSCR + downside tests."
   keywords: ["corporate finance","unit economics","IRR","NPV","DSCR","sensitivity","risk allocation","sustainability"]
+
+ontology:
+  schema_org:
+    offer: "https://schema.org/Offer"
+  foaf:
+    person: "http://xmlns.com/foaf/0.1/Person"
